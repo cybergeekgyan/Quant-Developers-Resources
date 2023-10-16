@@ -2,6 +2,7 @@
 
 ### 🧰 Mathematics 
 
+- Linear Algebra & Calculus
 - Probability & Statistics
 - Permutations & Combinations
 - Mathematical Puzzles
