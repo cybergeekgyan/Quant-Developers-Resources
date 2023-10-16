@@ -10,7 +10,7 @@
 | 03. | AlphaGrep | | | https://www.alpha-grep.com/ |
 | 04. | WorldQuant | | | https://www.worldquant.com/home/ |
 | 05. | Tower Research Capital | | | https://www.tower-research.com/ |
-
+| 06. | NK Securities Research | | | https://www.nksecurities.com |
 
 ### 🧰 Mathematics 
 
