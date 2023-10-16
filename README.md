@@ -27,8 +27,6 @@
 - https://brainstellar.com
 
 
-
-
 ### Most Important Books for Quant Developers and Software Engineers
 
 | Sr. No. | Book | Link |
