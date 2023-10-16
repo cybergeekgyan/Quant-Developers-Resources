@@ -1,11 +1,22 @@
 # Quant-Developers-Resources
 
+### 🧰 Mathematics 
+
+- Probability & Statistics
+- Permutations & Combinations
+- Mathematical Puzzles
+- Logical Reasoning
+
+
+### 👍 Websites
+
+- https://www.cut-the-knot.org
+- https://brainstellar.com
 
 
 
 
-
-### Companies which Hire Quant Developers and Software Engineers in India along with CTC and Location
+### 🎆 Companies which Hire Quant Developers and Software Engineers in India along with CTC and Location
 
 | Sr. No. | Company | CTC | Location | website |
 |---------|---------|------|---------|---------|
