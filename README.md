@@ -37,6 +37,8 @@
 | 04. | Introduction to Probability and Statistics for Engineers and Scientists |
 | 05. | A Practical Guide To Quantitative Finance Interviews |
 | 06. | Fifty Challenging Problems in Probability |
+| 07. | C++ Concurrency in Action |
+
 
 ## Books for Quant Traders 
 
