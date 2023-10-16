@@ -1,1 +1,1 @@
-# Quant-Developers-Resources-
+# Quant-Developers-Resources
