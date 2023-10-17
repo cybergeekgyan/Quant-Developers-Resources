@@ -40,7 +40,7 @@
 | 07. | C++ Concurrency in Action |
 
 
-## Books for Quant Traders 
+## 📚 Books for Quant Traders 
 
 1. Option Volatility and Pricing by Sheldon Natenberg
 2. Dynamic Hedging
