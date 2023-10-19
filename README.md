@@ -1,4 +1,4 @@
-# Quant-Developers-Resources
+# Quant-Developers-Resources for Interview Preparation
 
 
 ### 🎆 Companies which Hire Quant Developers and Software Engineers in India along with CTC and Location
