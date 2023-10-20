@@ -54,3 +54,12 @@
 10. Sinclair - Volatility Trading
 11. Hull - Options, Futures, and Other Derivatives
 
+
+## 📚 Books for FPGA(Field Programmable Gate Array)
+
+| Sr. No. | Book | Link |
+| --------|------|-----|
+| 01. | High Performance FPGA-Based Accelerators for Financial Applications |
+| 02. | FPGA Prototyping by VHDL Examples |
+| 03. | FPGA-Based Implementation of Signal Processing Systems |
+
