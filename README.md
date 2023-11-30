@@ -38,7 +38,10 @@
 | 05. | A Practical Guide To Quantitative Finance Interviews |
 | 06. | Fifty Challenging Problems in Probability |
 | 07. | C++ Concurrency in Action |
-
+| 08. | But how do it know?  - J. Clark Scott |
+| 09. | Design Patterns:  Elements of Reusable Object-Oriented Software - Erich Gamma |
+| 10. | C++ Best practices - Jason Turner |
+| 11. | C++ 17 in detail - B. Filipek |
 
 ## 📚 Books for Quant Traders 
 
@@ -59,7 +62,7 @@
 
 | Sr. No. | Book | Link |
 | --------|------|-----|
-| 01. | High Performance FPGA-Based Accelerators for Financial Applications |
+| 01. | High-Performance FPGA-Based Accelerators for Financial Applications |
 | 02. | FPGA Prototyping by VHDL Examples |
 | 03. | FPGA-Based Implementation of Signal Processing Systems |
 
