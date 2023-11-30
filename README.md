@@ -11,6 +11,38 @@
 | 04. | WorldQuant | | | https://www.worldquant.com/home/ |
 | 05. | Tower Research Capital | | | https://www.tower-research.com/ |
 | 06. | NK Securities Research | | | https://www.nksecurities.com |
+| 07. | Quadeye | | | 
+| 08. | Futures First |
+| 09. | Open Futures |
+| 10. | SMC Global |
+| 11. | Open Markets |
+| 12. | MyFinDoc |
+| 13. | Algo Bulls |
+| 14. | Tvisi Algo Systems
+| 15. | AlgoJi
+| 16. | Dolat Group
+| 17. | Estee Advisors
+| 18. | Goldman Sachs
+| 19. | Morgan Stanley
+| 20. | IRage Capital
+| 21. | APT Portfolios
+| 22. | Two Roads Tech
+| 23. | Acceletrade
+| 24. | Edelweiss
+| 25. | Qnance
+| 26. | QuantAI Capital
+| 27. | Samssara Capital 
+| 28. | Wallsoft
+| 29. | Squarepoint Capital
+| 30. | Jump Trading
+| 31. | Callisto Talent Solutions
+| 32. | Allegis Global Solutions
+| 33. | Tensorfox
+| 34. | Fionics
+| 35. | HuntingCube Recruitment Solutions
+| 36. | Tiger Analytics
+| 37. | AlgoCapital Group
+
 
 ### 🧰 Mathematics 
 
