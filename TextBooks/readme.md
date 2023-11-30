@@ -9,6 +9,11 @@
 | 04. | Introduction to Probability and Statistics for Engineers and Scientists |
 | 05. | A Practical Guide To Quantitative Finance Interviews |
 | 06. | Fifty Challenging Problems in Probability |
+| 07. | But how do it know?  - J. Clark Scott |
+| 08. | Design Patterns:  Elements of Reusable Object-Oriented Software - Erich Gamma |
+| 09. | C++ Best practices - Jason Turner |
+| 10. | C++ 17 in detail - B. Filipek |
+| 11. | C++ Concurrency in Action - Williams |  
 
 
 
