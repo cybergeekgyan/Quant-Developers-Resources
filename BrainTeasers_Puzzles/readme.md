@@ -13,6 +13,7 @@
 - https://www.analyticsvidhya.com/blog/2016/07/20-challenging-job-interview-puzzles-which-every-analyst-solve-atleast/
 - https://www.janestreet.com/probability-markets/
 - https://www.tradinginterview.com
+- https://www.tradermaths.com/math-tests
 
 
 ## Books📚
