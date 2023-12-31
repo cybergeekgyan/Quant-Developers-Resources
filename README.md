@@ -1,7 +1,17 @@
 # Quant-Developers-Resources
 
+## 🔥Hiring Process 
 
-### 🎆 Companies which Hire Quant Developers and Software Engineers in India along with CTC and Location
+1) `Mental Math/Speed Math/Logic/Numerical Tests`
+2) `BrainTeasers and Puzzles`
+3) `Probability and Statistics`
+4) `Market Making/Betting & Trading Games`
+5) `Pattern Finding and Logic`
+6) `Technical Rounds`
+7) `Behavioral/Role Fit Rounds`
+
+
+## 🎆 Companies which Hire Quant Developers and Software Engineers in India along with CTC and Location
 
 | Sr. No. | Company | CTC | Location | website |
 |---------|---------|------|---------|---------|
@@ -58,8 +68,16 @@
 - https://www.cut-the-knot.org
 - https://brainstellar.com
 
+## 📚Books for Technical Rounds 
 
-### Most Important Books for Quant Developers and Software Engineers
+- Heard on the Street by Timothy Falcon Crack
+- Fifty Challenging Problems in Probability With Solutions by Frederick Mosteller
+- Entertaining Mathematical Puzzles by Martin Gardner
+- Mathematical Puzzles : A Connoisseur’s Collection by Peter Winkler
+- A Practical Guide To Quantitative Finance Interviews by Xinfeng Zhou
+
+
+## Most Important Books for Quant Developers and Software Engineers
 
 | Sr. No. | Book | Link |
 | --------|------|-----|
@@ -75,7 +93,7 @@
 | 10. | C++ Best practices - Jason Turner |
 | 11. | C++ 17 in detail - B. Filipek |
 
-## 📚 Books for Quant Traders 
+## 📚Books for Quant Traders 
 
 1. Option Volatility and Pricing by Sheldon Natenberg
 2. Dynamic Hedging
@@ -90,7 +108,7 @@
 11. Hull - Options, Futures, and Other Derivatives
 
 
-## 📚 Books for FPGA(Field Programmable Gate Array)
+## 📚Books for FPGA(Field Programmable Gate Array)
 
 | Sr. No. | Book | Link |
 | --------|------|-----|
