@@ -68,6 +68,14 @@
 - https://www.cut-the-knot.org
 - https://brainstellar.com
 
+## 5 Top Books for Acing a Quantitative Analyst Interview
+
+- Heard on The Street: Quantitative Questions from Wall Street Job Interviews
+- Frequently Asked Questions in Quantitative Finance
+- Quant Job Interview Questions And Answers
+- A Practical Guide To Quantitative Finance Interviews
+- Starting Your Career as a Wall Street Quant: A Practical, No-BS Guide to Getting a Job in Quantitative Finance
+
 ## 📚Books for Technical Rounds 
 
 - Heard on the Street by Timothy Falcon Crack
