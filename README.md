@@ -124,3 +124,32 @@
 | 02. | FPGA Prototyping by VHDL Examples |
 | 03. | FPGA-Based Implementation of Signal Processing Systems |
 
+
+
+## List of 20 Fellowships, Graduate programs, and insight weeks, that can help you crack Jobs at Top Hedge Funds, HFT, and Prop Shops
+
+*The best time to crack top Quant Jobs is during your undergraduate years, or when pursuing MFE or a master's in a related subject.*
+
+| Sr. No. | Fellowship/Program | Link| Year |
+| -----| --------| -------------|----|
+| 1) | CITADEL -Trading Invitational | https://lnkd.in/gK-rTYPZ | `2024` |
+| 2) | D. E. Shaw & Co. Discovery Fellowship | https://lnkd.in/erRew2J
+| 3) | D. E. Shaw & Co. Latitude Fellowship |
+| 4) | D. E. Shaw & Co. Momentum Fellowship
+| 5) | D. E. Shaw & Co. Nexus Fellowship
+| 6) | Bridgewater Rising Fellows Program
+| 7) | Bridgewater Investment Immersion Program
+| 8) | Akuna Capital University (Options 101, 201)
+| 9) | AQR Early Engagement Day
+| 10) | AQR Quanta Academy
+| 11) | Jane Street Graduate Research Fellowship
+| 12) | Jane Street IN FOCUS
+| 13) | Jane Street INSIGHT
+| 14) | Jane Street JSIP
+| 15) | Jane Street Visiting Researcher / Prefaculty
+| 16) | Susquehanna International Group Sophomore Discovery Day – Trading
+| 17) | Two Sigma College Mentor Connect
+| 18) | Two Sigma PhD Fellowship
+| 19) | Two Sigma Undergraduate Scholarship
+| 20) | WorldQuant BRAIN
+
