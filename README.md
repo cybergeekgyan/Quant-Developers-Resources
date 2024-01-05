@@ -127,13 +127,12 @@
 - Mathematical Puzzles
 - Logical Reasoning
 
-
 ### 👍 Websites
 
 - https://www.cut-the-knot.org
 - https://brainstellar.com
 
-## 5 Top Books for Acing a Quantitative Analyst Interview
+## 📚5 Top Books for Acing a Quantitative Analyst Interview
 
 - Heard on The Street: Quantitative Questions from Wall Street Job Interviews
 - Frequently Asked Questions in Quantitative Finance
@@ -146,11 +145,11 @@
 - Heard on the Street by Timothy Falcon Crack
 - Fifty Challenging Problems in Probability With Solutions by Frederick Mosteller
 - Entertaining Mathematical Puzzles by Martin Gardner
-- Mathematical Puzzles : A Connoisseur’s Collection by Peter Winkler
+- Mathematical Puzzles: A Connoisseur’s Collection by Peter Winkler
 - A Practical Guide To Quantitative Finance Interviews by Xinfeng Zhou
 
 
-## Most Important Books for Quant Developers and Software Engineers
+## 📖Most Important Books for Quant Developers and Software Engineers
 
 | Sr. No. | Book | Link |
 | --------|------|-----|
@@ -180,6 +179,33 @@
 10. Sinclair - Volatility Trading
 11. Hull - Options, Futures, and Other Derivatives
 
+# 🔥These 10 Youtube playlists will teach you more than a $200,000 Masters Degree
+
+| Sr. No. | Playlist | Link |
+|-----| -----| ------|
+| 1) | Quantitative Stock Price Analysis with Python, pandas, NumPy Matplotlib & SciPy | https://lnkd.in/gNWDheqp
+| 2) | Yves Hilpisch - Python for Quant Finance | https://lnkd.in/gmfaRTz9
+| 3) | A Quant Finance Project in Python: Estimating a Risk Factor Model for a Stock with Live Data | https://lnkd.in/gNxGHeJq
+| 4) | Stock Price Prediction Using Python & Machine Learning | https://lnkd.in/gEXi2Wfs
+| 5) | How to Code a Trading Bot in Python - Beginners Guide | https://lnkd.in/gQwKhswK
+| 6) | Algorithmic Trading Python 2023 | https://lnkd.in/gNpUEMZr
+| 7) | Algorithmic Trading Using Python - Full Course | https://lnkd.in/gWxTii4g
+| 8) | Introduction to Algorithmic Trading Using Python - How to Create & Test Trading Algorithm | https://lnkd.in/g5hYN6Ta
+| 9) | Two Sigma Presents: Machine Learning Models of Financial Data | https://lnkd.in/g6QBhtxx
+| 10) | How quant trading strategies are developed and tested w/ Ernie Chan | https://lnkd.in/gBxKxnFn
+| 11) | IIT Kanpur Quant Finance course by Professor Raghu Nandan | https://lnkd.in/dHewAfYc
+| 12) | IIT Bombay, Stochastic Process course by Prof. Manjesh Hanawal | https://lnkd.in/gRq6f-NJ
+| 13) | MIT Financial Mathematics course | https://lnkd.in/gwmmyWrz
+| 14) | Yale Univerity Quantitative Finance course | https://lnkd.in/gqGXFGeZ
+| 15) | Mathematical Methods for Quantitative Finance | https://lnkd.in/gPTRQMdc
+| 16) | IIT Guwahati - Mathematical Finance | https://lnkd.in/gHwrzhEa
+| 17) | Introduction to computer science and programming in Python | https://lnkd.in/gFX4XZPp
+| 18) | Computational Finance by Leipzig University | https://lnkd.in/gHMkr8Ue
+| 19) | IIT Kanpur Probability and Stochastics for Finance - by Professor Joydeep Dutta | https://lnkd.in/ggDJkVgE
+| 20) | Harvard Applied Mathematics | https://lnkd.in/gzrYZ7Ne
+| 21) | Harvard CS50 – Full Computer Science University Course | https://lnkd.in/gK9qVMQX (If you don't have a coding background)
+
+
 
 ## 📚Books for FPGA(Field Programmable Gate Array)
 
@@ -191,7 +217,7 @@
 
 
 
-## List of 20 Fellowships, Graduate programs, and insight weeks, that can help you crack Jobs at Top Hedge Funds, HFT, and Prop Shops
+## 🔥List of 20 Fellowships, Graduate programs, and insight weeks, that can help you crack Jobs at Top Hedge Funds, HFT, and Prop Shops
 
 *The best time to crack top Quant Jobs is during your undergraduate years, or when pursuing MFE or a master's in a related subject.*
 
