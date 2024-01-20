@@ -1,17 +1,17 @@
 # Quant-Developers-Resources
 
-![IMG_3366](https://github.com/cybergeekgyan/Quant-Developers-Resources/assets/56320349/8b105090-9580-49cb-9f31-67918b14445c)
+![quant-developer](https://github.com/cybergeekgyan/Quant-Developers-Resources/assets/56320349/8b105090-9580-49cb-9f31-67918b14445c)
 
 
 ## 🔥Hiring Process 
 
-1) `Mental Math/Speed Math/Logic/Numerical Tests`
-2) `BrainTeasers and Puzzles`
-3) `Probability and Statistics`
-4) `Market Making/Betting & Trading Games`
-5) `Pattern Finding and Logic`
-6) `Technical Rounds`
-7) `Behavioral/Role Fit Rounds`
+- 1) `Mental Math/Speed Math/Logic/Numerical Tests`
+- 2) `BrainTeasers and Puzzles`
+- 3) `Probability and Statistics`
+- 4) `Market Making/Betting & Trading Games`
+- 5) `Pattern Finding and Logic`
+- 6) `Technical Rounds`
+- 7) `Behavioral/Role Fit Rounds`
 
 
 ## 🎆 Companies that Hire Quant Developers and Software Engineers in India along with CTC and Location
