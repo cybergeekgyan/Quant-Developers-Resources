@@ -52,71 +52,74 @@
 | 35. | HuntingCube Recruitment Solutions
 | 36. | Tiger Analytics
 | 37. | AlgoCapital Group
-| 38. | Akuna Capital
-| 39. | AQR Capital
-| 40. | Belvedere Trading
 
 ## List of Firms that Hires Undergraduates for Quant Trading and Quant Research Roles
 
-➡ Bridgewater Associates
-➡ Citadel / Citadel Securities
-➡ Cubist Systems (Point72)
-➡ DE Shaw
-➡ DRW
-➡ Five Rings Capital
-➡ Flow Trading
-➡ Gravtion Research Capital
-➡ Hudson River Trading
-➡ IMC
-➡ Jane Street Capital
-➡ Jump Trading
-➡ NK Securities
-➡ Optiver
-➡ Quadeye
-➡ Quantbox Research
-➡ Susquehanna International Group (SIG)
-➡ Tower Research Capital
-➡ Two Sigma
-➡ Voleon
-➡ Voloridge
-➡ WorldQuant
-➡ Aquatic Capital
-➡ Chicago Trading Company
-➡ Cutler Group
-➡ Group One Trading
-➡ Old Mission Capital
-➡ Peak6
-➡ Plutus Research
-➡ Valkyrie Trading
-➡ Vatic Labs
-➡ Virtu Financial
-➡ Wolverine Trading
-➡ XR Trading
-➡ Headlands Technologies
-➡ TransMarket Group
-➡ 3Red Partners
-➡ Allston Trading
-➡ Ansatz Capital
-➡ ART Advisors
-➡ Blackedge Capital
-➡ Bluefin Companies
-➡ Cognitive Capital
-➡ Da Vinci Derivatives
-➡ Domeyard
-➡ DV Trading
-➡ G-Research
-➡ Gelber Group
-➡ Geneva Trading
-➡ Liquid Capital Group
-➡ Mako Trading
-➡ Maven Securities
-➡ Maverick Derivatives
-➡ Millenium Advisors
-➡ Nine Mile Financial
-➡ PDT Partners
-➡ Quadrature Capital
-➡ Quantlab
-➡ Qube Research & Technologies
+| Sr. No. | Company | CTC | Location | website |
+|---------|---------|------|---------|---------|
+| 01. | ➡ Akuna Capital
+| 02. | ➡ AlphaGrep
+| 03. | ➡ AQR Capital
+| 04. | ➡ Belvedere Trading
+| 05. | ➡ Bridgewater Associates
+| 06. | ➡ Citadel / Citadel Securities
+| 07. | ➡ Cubist Systems (Point72)
+| 08. | ➡ DE Shaw
+| 09. | ➡ DRW
+| 10. | ➡ Five Rings Capital
+| 11. | ➡ Flow Trading
+| 12. | ➡ Gravtion Research Capital
+| 13. | ➡ Hudson River Trading
+| 14. | ➡ IMC
+| 15. | ➡ Jane Street Capital
+| 16. |     ➡ Jump Trading
+| 17. |      ➡ NK Securities
+| 18. |      ➡ Optiver
+| 19. |      ➡ Quadeye
+| 20. |      ➡ Quantbox Research
+| 21. |      ➡ Susquehanna International Group (SIG)
+| 22. |      ➡ Tower Research Capital
+| 23. |      ➡ Two Sigma
+| 24. |      ➡ Voleon
+| 25. |      ➡ Voloridge
+| 26. |      ➡ WorldQuant
+| 27. |      ➡ Aquatic Capital
+| 28. |      ➡ Chicago Trading Company
+| 29. |      ➡ Cutler Group
+| 30. |      ➡ Group One Trading
+| 31. |      ➡ Old Mission Capital
+| 32. |      ➡ Peak6
+| 33. |      ➡ Plutus Research
+| 34. |      ➡ Valkyrie Trading
+| 35. |      ➡ Vatic Labs
+| 36. |      ➡ Virtu Financial
+| 37. |      ➡ Wolverine Trading
+| 38. |      ➡ XR Trading
+| 39. |      ➡ Headlands Technologies
+| 40. |      ➡ TransMarket Group
+| 41. |      ➡ 3Red Partners
+| 42. |      ➡ Allston Trading
+| 43. |      ➡ Ansatz Capital
+| 44. |      ➡ ART Advisors
+| 45. |      ➡ Blackedge Capital
+| 46. |      ➡ Bluefin Companies
+| 47. |      ➡ Cognitive Capital
+| 48. |      ➡ Da Vinci Derivatives
+| 49. |      ➡ Domeyard
+| 50. |      ➡ DV Trading
+| 51. |      ➡ G-Research
+| 52. |      ➡ Gelber Group
+| 53. |      ➡ Geneva Trading
+| 54. |      ➡ Liquid Capital Group
+| 55. |  ➡ Mako Trading
+| 56. |  ➡ Maven Securities
+| 57. |  ➡ Maverick Derivatives
+| 58. |  ➡ Millenium Advisors
+| 59. |  ➡ Nine Mile Financial
+| 60. |  ➡ PDT Partners
+| 61. |  ➡ Quadrature Capital
+| 62. |  ➡ Quantlab
+| 63. |  ➡ Qube Research & Technologies
 
 
 ### 🧰 Mathematics 
