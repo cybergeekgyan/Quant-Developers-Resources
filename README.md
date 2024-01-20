@@ -1,5 +1,8 @@
 # Quant-Developers-Resources
 
+![IMG_3366](https://github.com/cybergeekgyan/Quant-Developers-Resources/assets/56320349/8b105090-9580-49cb-9f31-67918b14445c)
+
+
 ## 🔥Hiring Process 
 
 1) `Mental Math/Speed Math/Logic/Numerical Tests`
@@ -122,11 +125,17 @@
 | 63. |  ➡ Qube Research & Technologies
 
 
-### 🧰 Mathematics 
+### 🧰 Mathematics & Other Topics
 
 - Linear Algebra & Calculus
 - Probability & Statistics
+- Applied Stochastic Calculus
 - Permutations & Combinations
+- Portfolio Optimization
+- Greeks
+- Options Pricing Models
+- Randomized Algorithms
+- Volatility Modeling
 - Mathematical Puzzles
 - Logical Reasoning
 
