@@ -4,7 +4,7 @@
 
 ### Quant Roles
 
-`Quant Analyst` `Quant Researcher` `Quant Trader` `Quant Developer` `Algorithmic Trader` `Quant Strategist` `Quant Risk Analyst`
+`Quant Analyst` `Quant Researcher` `Quant Trader` `Quant Developer` `Algorithmic Trader` `Quant Strategist` `Quant Risk Analyst` `Quant Modeler` `Fixed Income Desk Quant` `Quant Finance Analyst` 
 
 ## 🔥Hiring Process 
 
@@ -19,21 +19,27 @@
 
 ## 🚀 Most Important Topics for Quant Interviews
 
-1) Basic concepts of Derivatives
-2) Option Pricing Models
-3) Greeks
-4) Stochastic Calculus
-5) Risk-Neutral Valuation
-6) Interest Rate Models
-7) Volatility
-8) Numerical Methods
-9) Arbitrage Pricing Theory and No-Arbitrage Principle
-10) Credit Derivatives
-11) Regulatory Framework
-12) Portfolio Management and Hedging Strategies
-13) Exotic Options
-14) Market Microstructure
-15) Real-World Applications and Recent Trends
+1) Probability and Statistics
+2) Derivatives
+3) Option Pricing Models
+4) Greeks (Delta, Gamma, Rho, Theta, Vega)
+5) Fixed Income Product
+6) Stochastic Calculus
+7) Machine Learning and Data Science
+8) Econometrics
+9) Risk-Neutral Valuation
+10) Interest Rate Models
+11) Volatility
+12) Numerical Methods
+13) Arbitrage Pricing Theory and No-Arbitrage Principle
+14) Credit Derivatives
+15) Regulatory Framework
+16) Portfolio Management and Hedging Strategies
+17) Exotic Options
+18) Market Microstructure
+19) Real-World Applications and Recent Trends
+20) Portfolio Theory and Optimization
+21) Algo Trading
 
 ## 🎆 Companies that Hire Quant Developers and Software Engineers in India along with CTC and Location
 
