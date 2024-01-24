@@ -2,6 +2,9 @@
 
 ![quant-developer](https://github.com/cybergeekgyan/Quant-Developers-Resources/assets/56320349/8b105090-9580-49cb-9f31-67918b14445c)
 
+### Quant Roles
+
+`Quant Analyst` `Quant Researcher` `Quant Trader` `Quant Developer` `Algorithmic Trader` `Quant Strategist` `Quant Risk Analyst`
 
 ## 🔥Hiring Process 
 
@@ -13,6 +16,24 @@
 - 6) `Technical Rounds`
 - 7) `Behavioral/Role Fit Rounds`
 
+
+## 🚀 Most Important Topics for Quant Interviews
+
+1) Basic concepts of Derivatives
+2) Option Pricing Models
+3) Greeks
+4) Stochastic Calculus
+5) Risk-Neutral Valuation
+6) Interest Rate Models
+7) Volatility
+8) Numerical Methods
+9) Arbitrage Pricing Theory and No-Arbitrage Principle
+10) Credit Derivatives
+11) Regulatory Framework
+12) Portfolio Management and Hedging Strategies
+13) Exotic Options
+14) Market Microstructure
+15) Real-World Applications and Recent Trends
 
 ## 🎆 Companies that Hire Quant Developers and Software Engineers in India along with CTC and Location
 
@@ -138,19 +159,32 @@
 - Volatility Modeling
 - Mathematical Puzzles
 - Logical Reasoning
+- Data Science and Machine Learning
+  - Data Cleaning and Processing
+  - Exploratory Data Analysis(EDA)
+  - Supervised Learning and Unsupervised Learning
+- Time Series Analysis
 
 ### 👍 Websites
 
 - https://www.cut-the-knot.org
 - https://brainstellar.com
 
-## 📚5 Top Books for Acing a Quantitative Analyst Interview
+## 📚 Top Books for Acing a Quantitative Analyst Interview
 
 - Heard on The Street: Quantitative Questions from Wall Street Job Interviews
 - Frequently Asked Questions in Quantitative Finance
 - Quant Job Interview Questions And Answers
 - A Practical Guide To Quantitative Finance Interviews
 - Starting Your Career as a Wall Street Quant: A Practical, No-BS Guide to Getting a Job in Quantitative Finance
+- Mathematical Statistics and Data Analysis - `Mathematical Statistics`
+- Financial Risk Management and Financial Institutions - `Financial Risk Management`
+- Options, Futures and Other Derivatives - `Options & Derivatives`
+- Bond Markets, Analysis and Strategies - `Fixed Income Products`
+- Monte Carlo Methods in Financial Engineering - `Monte Carlo Methods`
+- Stochastic Calculus for Finance II - `Stochastic Calculus for Finance`
+
+
 
 ## 📚Books for Technical Rounds 
 
