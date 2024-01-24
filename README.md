@@ -188,6 +188,7 @@
 
 - https://www.cut-the-knot.org
 - https://brainstellar.com
+- https://qfeuniversity.com/topics/
 
 ## 📚 Top Books for Acing a Quantitative Analyst Interview
 
