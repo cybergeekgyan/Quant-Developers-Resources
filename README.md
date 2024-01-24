@@ -171,6 +171,19 @@
   - Supervised Learning and Unsupervised Learning
 - Time Series Analysis
 
+- Data Science and Machine Learning
+  - Data Cleaning and Processing
+  - Exploratory Data Analysis(EDA)
+  - Supervised Learning and Unsupervised Learning
+- Time Series Analysis
+
+### 🤟Best Lectures on Stochastic Calculus 🎯🎯
+
+1. MIT Financial Mathematics --> [Link](https://lnkd.in/ghfKjRJC)
+2. IIT Kanpur --> [Link](https://lnkd.in/g6dqCeJs)
+3. School of Economics (Stochastic Calculus) --> [Link](https://lnkd.in/gqbcuv-2)
+4. MIT (Discrete Stochastic Process) --> [Link](https://lnkd.in/gxBjRG6b)
+
 ### 👍 Websites
 
 - https://www.cut-the-knot.org
