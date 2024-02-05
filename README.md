@@ -183,6 +183,7 @@
 2. IIT Kanpur --> [Link](https://lnkd.in/g6dqCeJs)
 3. School of Economics (Stochastic Calculus) --> [Link](https://lnkd.in/gqbcuv-2)
 4. MIT (Discrete Stochastic Process) --> [Link](https://lnkd.in/gxBjRG6b)
+5. Probability Systems Analysis and Applied Probability --> [Link](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=1)
 
 ### 👍 Websites
 
