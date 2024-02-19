@@ -155,27 +155,75 @@
 ### 🧰 Mathematics & Other Topics
 
 - Linear Algebra & Calculus
-- Probability & Statistics
-- Applied Stochastic Calculus
 - Permutations & Combinations
-- Portfolio Optimization
-- Greeks
+- Probability & Statistics
+- Optimization
+- Differential Equations
+- Ordinary Differential Equations (ODEs)
+- Partial Differential Equations (PDEs)
+  
+- Taylor Series Approximation
+  
+- Applied Stochastic Calculus
+- Ito's Lemma
+- Martingales
+- Brownian Motion
+- Stochastic Differential Equations
+- Stochastic Integrals
+- Laws of Motion for Asset Pricing
+
+- Limit Theorems
+  - Law of Large Numbers
+  - Central Limit Theorem
+  - Weak Law of Large Numbers 
+
+- Time Value of Money
+    
+- Asset Classes
+  - Fixed Income
+  - Equity
+  - Derivatives
+  - Commodity
+
+- Options Greeks
 - Options Pricing Models
+- Portfolio Optimization
+- Arbitrage Theory
+- Risk Management
+  - Value at Risk (VaR)
+  - CVAR 
+  - Expected shortfall etc. 
+    
+- Financial Theories and Models
 - Randomized Algorithms
 - Volatility Modeling
 - Mathematical Puzzles
 - Logical Reasoning
-- Data Science and Machine Learning
-  - Data Cleaning and Processing
-  - Exploratory Data Analysis(EDA)
-  - Supervised Learning and Unsupervised Learning
-- Time Series Analysis
+
+2. Computer Science
+
+- Statistical Languages
+- Programming Languages
+  - Python
+  - C++
+  - R
+  - MATLAB
+  - SAS
+- Best Practices in Programming
 
 - Data Science and Machine Learning
+  - Regression Analysis Ordinary Least Squares (OLS)
+  - Logistic Regression
+  - Generalized Linear Models
+  - Time Series Analysis
+  - Nonparametric Methods
   - Data Cleaning and Processing
+  - Data Exploration
   - Exploratory Data Analysis(EDA)
   - Supervised Learning and Unsupervised Learning
-- Time Series Analysis
+  - Advanced Machine Learning Techniques
+  - Neural Networks
+  - Gradient Boosting
 
 ### 🤟Best Lectures on Stochastic Calculus 🎯🎯
 
