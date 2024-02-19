@@ -343,7 +343,6 @@
 | 63. |  ➡ Qube Research & Technologies
 
 
-
 ## 🔥List of 20 Fellowships, Graduate programs, and insight weeks, that can help you crack Jobs at Top Hedge Funds, HFT, and Prop Shops
 
 *The best time to crack top Quant Jobs is during your undergraduate years, or when pursuing MFE or a master's in a related subject.*
@@ -371,3 +370,84 @@
 | 19) | Two Sigma Undergraduate Scholarship
 | 20) | WorldQuant BRAIN
 
+## 🔥 If you are applying for Quant and Risk positions, do check out this list.
+
+There are various positions that you can continuously monitor. Common positions are `quant analyst`, `risk analyst`, `model validation`, `quant developer`, `quant researcher`, `statistician` etc., 😁😁
+
+1. JPMorgan Chase & Co.
+2. Bank of America Corp.
+3. Wells Fargo & Co.
+4. Citigroup Inc.
+5. Goldman Sachs Group Inc.
+6. Morgan Stanley
+7. U.S. Bancorp
+8. Truist Financial Corporation
+9. PNC Financial Services Group Inc.
+10. TD Bank, N.A.
+11. Charles Schwab Corporation
+12. Bank of New York Mellon Corporation
+13. Capital One Financial Corporation
+14. State Street Corporation
+15. HSBC North America Holdings Inc.
+16. American Express Company
+17. Ally Financial Inc.
+18. Citizens Financial Group, Inc.
+19. BMO Financial Corp.
+20. Fifth Third Bancorp
+21. Northern Trust Corporation
+22. KeyCorp
+23. Regions Financial Corporation
+24. Huntington Bancshares Incorporated
+25. M&T Bank Corporation
+26. Discover Financial Services
+27. Synchrony Financial
+28. BBVA USA
+29. MUFG Americas Holdings Corporation
+30. Santander Holdings USA, Inc.
+31. Comerica Incorporated
+32. E*TRADE Financial Corporation
+33. Barclays US LLC
+34. CIBC Bank USA
+35. BNP Paribas USA, Inc.
+36. Credit Suisse Holdings (USA), Inc.
+37. Deutsche Bank Trust Corporation
+38. UBS Americas Holding LLC
+39. RBC US Group Holdings, LLC
+40. Citizens Bank, N.A.
+41. BOK Financial Corporation
+42. Popular, Inc.
+43. Valley National Bancorp
+44. Zions Bancorporation, N.A.
+45. First Horizon National Corporation
+46. Synovus Financial Corp.
+47. TIAA, FSB
+48. John Deere Capital Corporation
+49. Associated Banc-Corp
+50. Western Alliance Bancorporation
+51. Wintrust Financial Corporation
+52. Pinnacle Financial Partners Inc.
+53. UMB Financial Corporation
+54. Raymond James Financial, Inc.
+55. Sterling Bancorp
+56. First Citizens BancShares, Inc.
+57. BankUnited, Inc.
+58. Prosperity Bancshares, Inc.
+59. Texas Capital Bancshares, Inc.
+60. PacWest Bancorp
+61. New York Community Bancorp, Inc.
+62. Commerce Bancshares, Inc.
+63. Frost Bank
+64. Stifel Financial Corp.
+65. Old National Bancorp
+66. First National of Nebraska, Inc.
+67. F.N.B. Corporation
+68. First Republic Bank
+69. Signature Bank
+70. American National Insurance Company
+71. Silicon Valley Bank
+72. First Hawaiian Bank
+73. Webster Financial Corporation
+74. East West Bancorp, Inc.
+75. Cullen/Frost Bankers, Inc.
+
+This list includes a mix of commercial banks, investment banks, and financial services companies with significant banking operations.
