@@ -185,14 +185,19 @@
   - Derivatives
   - Commodity
 
-- Options Greeks
 - Options Pricing Models
+  - Black-Scholes-Merten Model for European Options
+  - GreeksA(Alpha, Gramma, Theta, Delta, Vega, Rho)
+  - Exotic Options and Pricing Methods
+  
 - Portfolio Optimization
 - Arbitrage Theory
 - Risk Management
   - Value at Risk (VaR)
-  - CVAR 
-  - Expected shortfall etc. 
+  - Conditional Value at Risk(CVaR) 
+  - Expected shortfall
+  - Risk Measures
+  - Portfolio Risk Assessment
     
 - Financial Theories and Models
 - Randomized Algorithms
@@ -216,6 +221,18 @@
   - Logistic Regression
   - Generalized Linear Models
   - Time Series Analysis
+    - Basics of Time Series and Stochastics Processes
+    - AR & MA models
+    - Stationarity & Ergodicity
+    - Autocorrelation & Partial Autocorrelation functions
+    - GARCH, ARCH & EWMA models for Volatility forecasting
+  - Monte Carlo Methods
+    - Monte Carlo Simulation for pricing and risk assessment
+    - Variance Reduction techniques(eg., control variates, antithetic variates) 
+  - Markov Chains
+    - Transition Matrices and Markov Property
+    - State Space, absorbing states and recurrent states
+    - Steady-State and long-term behavior of Markov Chains 
   - Nonparametric Methods
   - Data Cleaning and Processing
   - Data Exploration
