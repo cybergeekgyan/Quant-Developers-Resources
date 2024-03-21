@@ -35,7 +35,7 @@
     - INTERSECT
     - EXCEPT
       
-- Advanced SQL
+- **Advanced SQL**
   - Data Types
   - Date Format
   - Subqueries in SQL
@@ -52,3 +52,10 @@
   - Analytic Functions
   - Performance Tuning SQL queries
   - Pivoting Data in SQL
+
+
+## SQL Practice 
+
+- Investing a Drop in User Engagement
+- Understanding Search Functionality
+- Validate A/B Test Results
