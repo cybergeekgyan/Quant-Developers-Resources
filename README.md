@@ -5,6 +5,8 @@
 ### Quant Roles
 
 `Quant Analyst` `Quant Researcher` `Quant Trader` `Quant Developer` `Algorithmic Trader` `Quant Strategist` `Quant Risk Analyst` `Quant Modeler` `Fixed Income Desk Quant` `Quant Finance Analyst` 
+`Quantitative Engineering` `Quant Consultant` `Interest Rate Derivative Quant` `Treasury Quantitative Analyst` `Risk Analyst` `Market Risk Quant` `Risk Manager` `Financial Engineer` `Credit Risk Analyst` 
+`Market Risk Analyst` `Model Risk Analyst` `Model Validation Analyst`
 
 ## 🔥Hiring Process 
 
@@ -43,9 +45,11 @@
 
 ### 🧰 Mathematics & Other Topics
 
-- Linear Algebra & Calculus
+- Linear Algebra
+- Calculus
 - Permutations & Combinations
-- Probability & Statistics
+- Probability Theory
+- Statistics
 - Optimization
 - Differential Equations
 - Ordinary Differential Equations (ODEs)
@@ -94,6 +98,7 @@
 - Mathematical Puzzles
 - Logical Reasoning
 
+### 🧰 Programming Languages
 - Statistical Languages
 - Programming Languages
   - Python
@@ -102,6 +107,8 @@
   - MATLAB
   - SAS
 - Best Practices in Programming
+
+### 🧰 Data Stack
 
 - Data Science and Machine Learning
   - Regression Analysis Ordinary Least Squares (OLS)
