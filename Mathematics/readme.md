@@ -1,4 +1,4 @@
-# Mathematics Topics to Know 
+# 🧰 Mathematics Topics to Know 
 
 - Linear Algebra
 - Permutation & Combination
@@ -6,9 +6,10 @@
 - Statistics
 - Optimization
 - Differential Calculus
+- Numerical Methods
+- Stochastic Calculus
 - Information Theory
 - Decision Theory
 - Game Theory
 - Graph Theory
-- Stochastic Calculus
 - Differential Equations
