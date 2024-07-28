@@ -4,8 +4,10 @@
 - Permutation & Combination
 - Probability Theory
 - Statistics
-- Differential Calculus
 - Optimization
+- Differential Calculus
+- Information Theory
+- Decision Theory
 - Game Theory
 - Graph Theory
 - Stochastic Calculus
