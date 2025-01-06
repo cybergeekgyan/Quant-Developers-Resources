@@ -12,6 +12,16 @@
 - Standard Template Library(STL)
 - Multithreading & Concurrency
 
+# Time Series Modeling in Python
+  - AR Model
+  - MA Model
+  - ARMA Model
+  - ARIMA Model
+  - ARIMAX Model
+  - SARIMAX Model
+  - ARCH Model
+  - GARCH Model
+
 # Finance Topics To Know 
 
 - Calculating Risk and Return
@@ -47,7 +57,6 @@
 - Long Term Investing 
 
 
-
 ## [Quant Finance Bootcamp](https://quantfinanceinstitute.com/courses/quant-finance-bootcamp-25/)
 
 - Derivatives(Forward, Future, Option, Swaps)
@@ -65,4 +74,15 @@
     - Vasicek Interest Rate Model
     - CIR Interest Rate Model
 - Model Validation
+- Value at Risk Models
+   - Historical Method & its implementation
+   - Variance Covariance Method & its implementation
+   - Monte Carlo Simulation Method & its implementation
+   - Backtest VaR Using Traffic Light Approach - Theory & Excel Implementation
+   - Backtest VaR Using Kupiec Test - Theory & Excel Implementation
+   - Expected Shortfall Theory & its implementation
 - Portfolio Management
+- Credit Risk Modeling in Python
+  - Probability of Default (PD) Model
+  - Loss Given Default (LGD) Model
+  - Exposure at Default (EAD) Model
