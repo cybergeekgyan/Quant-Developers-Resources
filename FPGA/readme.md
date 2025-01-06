@@ -2,10 +2,10 @@
 
 - [Basics of Digital Logic Design]()
 - [FPGA Basics]()
-   	-	What is an FPGA? (LUTs, Flip-Flops, Block RAM, DSP Blocks, I/O)
-	  -	Differences Between ASICs and FPGAs
-	  - FPGA Architecture (Configurable Logic Blocks, Interconnects, Clock Networks)
-	  - FPGA Vendors: Xilinx, Intel (Altera), Lattice
+  - What is an FPGA? (LUTs, Flip-Flops, Block RAM, DSP Blocks, I/O)
+  - Differences Between ASICs and FPGAs
+  - FPGA Architecture (Configurable Logic Blocks, Interconnects, Clock Networks)
+  - FPGA Vendors: Xilinx, Intel (Altera), Lattice
 - [Hardware Description Languages (HDLs)]()
     - VHDL and/or Verilog
 	  - SystemVerilog (Optional but useful for advanced verification)
@@ -16,26 +16,26 @@
       	-	Testbenches for Simulation
 
 -  [FPGA Design Workflow]()
-  - Design Entry
-      -	Writing HDL Code
-    	-	Using IP Cores for Common Functionalities (e.g., Multipliers, FIFO)
-  - Synthesis and Implementation
-      -	Logic Synthesis (Conversion from HDL to Gate-Level Representation)
-    	-	Place and Route (P&R) for Optimizing FPGA Resource Usage
-    	-	Timing Closure (Critical Path Optimization)
-  - Simulation and Verification
-      -	Functional Simulation (Pre-Synthesis)
-    	-	Timing Simulation (Post-Synthesis)
-    	-	Tools: ModelSim, QuestaSim, Xilinx Vivado Simulator
-  - Bitstream Generation and Programming
-      -	Bitstream File Generation
-  	  - FPGA Configuration and On-Chip Debugging
+	  - Design Entry
+	      -	Writing HDL Code
+	    	-	Using IP Cores for Common Functionalities (e.g., Multipliers, FIFO)
+	  - Synthesis and Implementation
+	      -	Logic Synthesis (Conversion from HDL to Gate-Level Representation)
+	    	-	Place and Route (P&R) for Optimizing FPGA Resource Usage
+	    	-	Timing Closure (Critical Path Optimization)
+	  - Simulation and Verification
+	      -	Functional Simulation (Pre-Synthesis)
+	    	-	Timing Simulation (Post-Synthesis)
+	    	-	Tools: ModelSim, QuestaSim, Xilinx Vivado Simulator
+	  - Bitstream Generation and Programming
+	      -	Bitstream File Generation
+	  	  - FPGA Configuration and On-Chip Debugging
 
 - [High-Performance and Low-Latency Systems]()
   - Understanding Latency
-    -	Sources of Latency in FPGA Designs
-    -	Pipelining for Throughput Optimization
-    -	Latency vs. Resource Utilization Trade-Offs
+    - Sources of Latency in FPGA Designs
+    - Pipelining for Throughput Optimization
+    - Latency vs. Resource Utilization Trade-Offs
   - Optimizing FPGA for HFT
     -	Clock Domain Crossing (CDC)
     -	Low-Latency Data Path Design
@@ -82,9 +82,9 @@
   	-	ModelSim, QuestaSim for Simulation
   	-	Synplify Pro (Optional)
  -  Hardware
-   - FPGA Boards for HFT:
-  	 -	Xilinx Alveo Series
-  	 -	Intel Stratix 10 GX
+    - FPGA Boards for HFT:
+  	   - Xilinx Alveo Series
+  	   - Intel Stratix 10 GX
 	 - Ethernet NICs with FPGA Integration
 
 
