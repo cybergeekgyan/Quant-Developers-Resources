@@ -31,7 +31,7 @@
 - Violating the Assumptions of Classical Linear Regression Model
   - Multicollinearity: Analysis of Collinear Data
   - Heteroskedasticity
-  - Autocorrelation & PACF
+  - Autocorrelation Function & PACF
   - Misspecification: Wrong Regressors, Measurement Errors, and Functional Forms
 - Dummy Variables
 - Dynamic Econometric Models
@@ -44,6 +44,9 @@
 - Data Generating Process(DGP)
   - Staionary Process
   - Non-Stationary Process
+- White Noise, Random Walk, Staionarity, Seasonality,
+- Correlation between Past and Present Values
+- ACF & PACF
 - ARIMA Models and the Box Jenkins Methodology
 - Modelling the Variance: ARCH−GARCH Models
 - Vector Autoregressive (VAR) Models and Causality Tests
@@ -63,12 +66,16 @@
 - Hull Moving Average(HMA)
 - Exponential Smoothing(ES) & Holt's Method
 - Trend Projection
-- 
+- Forecasting Univariate Model
+- Multivariate Forecasting
+- Forecasting a VAR Model
+- Forecasting GARCH Processes
 
 ## Panel Data Econometrics
 
-- Traditional Panel Data Models
-- Dynamic Heterogenous Panels
+- Traditional Panel Data Models & Static Models
+- Panel Unit Root Test
+- Dynamic Heterogenous Panels & Models
 - Non-Stationary Panels
 
 
