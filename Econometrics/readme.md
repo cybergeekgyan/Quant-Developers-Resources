@@ -1,4 +1,4 @@
-# Econometrics 
+# 🔥 Econometrics Topics and Concepts to Know
 
 ## Basic Mathematics
 
@@ -78,11 +78,63 @@
 - Dynamic Heterogenous Panels & Models
 - Non-Stationary Panels
 
+## Univariate and Multivariate Analysis
+
+- Univariate Analysis
+- Multivariate Analysis
+  - Displaying Multivariate Data
+  - Multivariate Normal Distribution
+  - PCA
+  - Factor Analysis
+  - Multivariate Regression
+
+## Advanced Techniques and Machine Learning in Econometrics
+
+- Generalized Method of Moments (GMM)
+- Maximum Likelihood Estimation (MLE).
+- Causal inference: Propensity score matching, Difference-in-Differences (DiD).
+- Introduction to ML techniques: LASSO, Ridge regression.
 
 
+## 🧰 Tech Stack
+
+- [Programming Languages](): Python, R, C++, SQL, Julia
+- [Statistical Softwares](): Stata, Matlab, SAS
+- [Libraries and Packages](): Numpy, Pandas, SciPy, Statsmodels, Scikit-learn
+- [Data Visualization](): Matplotlib, Seaborn, ggplot2, Plotly, Tableau, Power BI
+- [Time-Series Analysis](): R’s forecast and tseries packages, Python’s statsmodels.tsa
+- [Big Data Tools](): Apache Spark, hadoop, Dask, Vaex
+- [DBMS](): PostgreSQL, MySQL, SQLite, Snowflake, BigQuery
+- [Machine Learning & Deep Learning](): Scikit-learn, caret, XGBoost, LightGBM, TensorFlow, PyTorch
+- [Bayesian Econometrics](): PyMC3 (Python), Stan, JAGS 
+- [Financial Econometrics]():	QuantLib, RiskMetrics, R’s rugarch package, Bloomberg Terminal, Yahoo Finance API
+- [Data Cleaning & ETL]():	pandas, dplyr, tidyr, Apache Airflow, Luigi
+- [Cloud Platforms](): AWS (S3, EC2), Google Cloud (BigQuery), Azure
+- [High-Performance Tools](): Parallel Processing Libraries (MPI, OpenMP), CUDA, GPUs
+- [Version Control]():	Git, GitHub, GitLab
+- [Optimization Tools]():	CVXPY (Python), Gurobi, LINGO
 
 
+## 📚 Books
 
+- [Introductory Econometrics: A Modern Approach by Jeffrey Wooldridge]()
+- [Econometric Analysis by William Greene]()
+- [Applied Econometrics by Dimitrios Asteriou and Stephen G. Hall]()
+- [Causal Inference for Statistics, Social, and Biomedical Sciences by Guido W. Imbens and Donald B. Rubin]()
+- [Analysis of Financial Time Series by Ruey S. Tsay]()
+- [Time Series Analysis by James D. Hamilton]()
+- [Forecasting, Structural Time Series Models and the Kalman Filter by Andrew Harvey]()
+- [Econometric Theory and Methods by Russell Davidson and James G. MacKinnon]()
+- [Advanced Econometrics by Takeshi Amemiya]()
+- [Microeconometrics: Methods and Applications by A. Colin Cameron and Pravin K. Trivedi]()
+- [Generalized Method of Moments by Alastair Hall]()
+- [Applied Econometrics with R by Christian Kleiber and Achim Zeileis]()
+- [Handbook of Financial Time Series by Torben G. Andersen, Richard A. Davis, Jens-Peter Kreiss, and Thomas Mikosch]()
+- [Financial Econometrics, Mathematics and Statistics Theory]()
+- [Quantitative Financial Economics by Keith Cuthbertson and Dirk Nitzsche]()
+
+  
+## 🟢 Projects
 
 
 
