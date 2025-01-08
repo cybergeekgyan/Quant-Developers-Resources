@@ -136,6 +136,19 @@
   
 ## 🟢 Projects
 
+- Portfolio Risk and Return Analysis
+- Using econometric techniques to understand factors influencing option prices
+- Forecast exchange rates using ARIMA models
+- Building a Model and forecast Major Indices stock return volatility using GARCH models
+- Analyze the effect of earnings announcements on stock returns
+- Identify cointegrated pairs of stocks for pairs trading strategies
+- Appling the Fama-French three-factor model to analyze portfolio returns
+- Model and predict interest rate term structures using Nelson-Siegel or machine learning models
+- Analyzing tick-level high frequency data to identify trading patterns and anomalies for Intraday Trading
+- Using stochastic volatility models (e.g., Heston model) to price options
+- Using RL algorithms to dynamically allocate assets in a portfolio using dynamic portfolio optimization
+- Model and predict movements in the VIX using econometric methods
+- Building an HFT Strategy Using Real-Time Data
 
 
 
