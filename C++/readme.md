@@ -1,3 +1,9 @@
+# C++ Concepts and Topics to Know for Quant Roles
+
+
+
+
+
 ## 📚 C++ Books To Read
 
 | Sr. No. | Book |Link |
