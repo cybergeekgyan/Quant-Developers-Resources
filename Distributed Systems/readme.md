@@ -1,5 +1,7 @@
 # Distributed Systems Concpets to know 
 
+- MIT 6.824: Distributed Systems (Spring 2020) :- https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&t=209s
+
 - Introduction to Distributed Systems
 - Distributed System Architectures
    - Types of Architectures
