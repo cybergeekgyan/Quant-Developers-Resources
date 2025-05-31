@@ -2,7 +2,7 @@
 
 - [Financial Markets](): Structure and function of financial markets, types of financial instruments.
 
-- [Portfolio Theory](): Mean-variance optimization, Capital Asset Pricing Model (CAPM), Fama French 3 Factor, Fama French 5 Factor, Efficient Frontier.
+- [Portfolio Theory](https://github.com/cybergeekgyan/Quant-Developers-Resources/tree/main/Financial%20Theory/Portfolio%20Theory): Mean-variance optimization, Capital Asset Pricing Model (CAPM), Fama French 3 Factor, Fama French 5 Factor, Efficient Frontier.
 
 - [Derivatives](): Options, futures, forwards, swaps, exotic derivatives.
 
