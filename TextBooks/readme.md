@@ -21,7 +21,7 @@
 2. [Volatility Trading – Euan Sinclair](https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2167/Volatility%2BTrading%2B-%2BEuan%2BSinclair.pdf)
 3. [The Concepts and Practice of Mathematical Finance – Mark S. Joshi](https://ia601604.us.archive.org/20/items/quant_books/Concepts%20_%20Practice%20of%20Mathematical%20Finance%20-%20M.%20S.%20Joshi.pdf)
 4. [Option Volatility and Pricing by Sheldon Natenberg](https://tfal.in/wp-content/uploads/2023/09/Option-Volatility-and-Pricing_-Advanced-Trading-Strategies-and-Techniques-PDFDrive-.pdf)
-5. [Dynamic Hedging](_http://docs.finance.free.fr/Options/Dynamic_Hedging-Taleb.pdf)
+5. [Dynamic Hedging](http://docs.finance.free.fr/Options/Dynamic_Hedging-Taleb.pdf)
 6. [Paul Wilmott Introduces Quantitative Finance](http://ndl.ethernet.edu.et/bitstream/123456789/26868/1/114.Wilmott%2C%20Paul.pdf)
 7. [Frequently Asked Questions in Quantitative Finance, Second Edition by Paul Wilmott]()
 8. [Python for Data Analysis]()
