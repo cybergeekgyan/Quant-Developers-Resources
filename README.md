@@ -149,6 +149,7 @@
 - https://www.cut-the-knot.org
 - https://brainstellar.com
 - https://qfeuniversity.com/topics/
+- https://github.com/cbailes/awesome-deep-trading
 
 ## 📚 Top Books for Acing a Quantitative Analyst Interview
 
