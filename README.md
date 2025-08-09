@@ -459,3 +459,12 @@ There are various positions that you can continuously monitor. Common positions 
 75. Cullen/Frost Bankers, Inc.
 
 This list includes a mix of commercial banks, investment banks, and financial services companies with significant banking operations.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cybergeekgyan/Quant-Developers-Resources&type=Date)](https://www.star-history.com/#cybergeekgyan/Quant-Developers-Resources&Date)
+
+
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cybergeekgyan/Quant-Developers-Resources&type=Date" />
+ </picture>
+</a>
