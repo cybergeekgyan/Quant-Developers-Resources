@@ -38,3 +38,21 @@
 
 ## Tech Stack & Tools
 
+- Programming: Python, R, SQL
+- Modeling: Scikit-learn, Statsmodels, XGBoost, LightGBM
+- Data: Pandas, Numpy, Snowflake, BigQuery
+- Visualization: Power BI, Tableau, Matplotlib, Seaborn
+- Deployment: MLflow, Streamlit, Docker, Airflow
+- Validation: PSI, KS, Gini, SHAP, LIME
+- Governance: Excel Templates, SR 11-7 docs, Model Validation Reports
+
+## Projects 
+
+1.	Credit Scoring Model (PD) – Logistic Regression + SHAP
+2.	LGD Regression Model – XGBoost + Downturn Adjustment
+3.	ECL Engine (IFRS 9) – PD × LGD × EAD
+4.	Stress Testing Dashboard – Portfolio-level visualization
+5.	Credit Portfolio Simulation – Monte Carlo Credit VaR
+6.	AI Explainability Dashboard – SHAP/LIME for regulator review
+
+
