@@ -1,0 +1,59 @@
+# Risk Mangement Learning Roadmap for Quants
+
+## Topics and Concepts to Know
+
+- Foundations of Risk Management
+  - Core Concepts
+  - Key Principles
+  - Mathematical Foundations
+- Market Risk
+  - Core Metrics: VaR, CVaR/ES, Volatility, Drawdown 
+  - Greeks: Delta, Gamma, Vega, Theta, Rho
+  - Advanced Topics: Non-linear risk, Convexity, Stress Testing, Scenario Analysis, Tail Risk Hedging
+  - Models: GARCH (Volatility Modeling), EWMA, Stochastic Volatility Models
+- Credit Risk
+  - Core Concepts; Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD)
+  - Models: Structural Models, Merton Model, Reduced Form Models
+  - Credit Derivatives: Credit Default Swaps (CDS), Collateralized Debt Obligations (CDOs)
+  - Advanced: Credit Scoring Models(Logistic Regression, XGBoost / ML Models), Survival Analysis, Hazard Rate Models
+- Liquidity Risk
+  - Types: Market Liquidity Risk, Funding Liquidity Risk
+  - Concepts: Bid-Ask Spread, Market Impact Models, Slippage
+  - Advanced: Almgren-Chriss Model, Order Book Dynamics, Execution Risk
+- Quantitative Risk Modeling (CORE FOR QUANT ROLES)
+  - Time Series Models:	ARIMA / SARIMA, GARCH / EGARCH, State Space Models
+  - Monte Carlo Simulation: Path Simulation, Variance Reduction Techniques, Importance Sampling
+  - Copula Models: Gaussian Copula, Tail Dependence
+  - Factor Models: CAPM, Fama-French Models, PCA-based risk models
+- Machine Learning in Risk Management
+  - Use Cases: Credit Risk Modeling, Fraud Detection, Market Regime Detection, Portfolio Risk Prediction
+  - Models: Logistic Regression, Random Forest, XGBoost / LightGBM, Neural Networks
+  - Advanced: Explainable AI (SHAP, LIME), Online Learning (River), Drift Detection
+- Portfolio Risk Management
+  - Portfolio Theory: Mean-Variance Optimization (Markowitz), Efficient Frontier
+  - Risk Metrics: Sharpe Ratio, Sortino Ratio, Information Ratio
+  - Advanced: Risk Parity, Black-Litterman Model, Kelly Criterion
+  - Hedging Strategies: Options Hedging, Delta Hedging, Dynamic Hedging
+- Derivatives & Risk
+  - Instruments: Options, Futures, Swaps
+  - Pricing Models: Black-Scholes Model, Binomial Models
+  - Risk Topics: Implied Volatility, Volatility Surface, Greeks Hedging
+- Stress Testing & Scenario Analysis
+  - Types: Historical Scenarios (2008 Crisis), Hypothetical Scenarios
+  - Techniques: Reverse Stress Testing, Sensitivity Analysis
+- Regulatory Risk & Frameworks (VERY IMPORTANT)
+  - Frameworks: Basel II / Basel III, IFRS 9
+  - Concepts: Capital Adequacy, Risk Weighted Assets (RWA), Backtesting VaR Models
+- Model Risk Management
+  - Concepts: Model Validation, Overfitting, Bias-Variance Tradeoff
+  - Techniques: Backtesting, Cross-validation, Stress Testing Models
+- High-Frequency & Trading Risk (ADVANCED QUANTS)
+  - Topics: Latency Risk, Execution Risk, Slippage Modeling
+  - Microstructure: Order Book Modeling, Market Impact
+- Advanced Topics (TOP QUANT FIRMS)
+  - Stochastic Calculus
+	-	Brownian Motion
+	-	Ito’s Lemma
+	-	PDEs in Finance
+	-	Measure Theory (for hardcore quant roles)
+	-	Optimal Stopping Problems
