@@ -51,7 +51,7 @@
   - Topics: Latency Risk, Execution Risk, Slippage Modeling
   - Microstructure: Order Book Modeling, Market Impact
 - Advanced Topics (TOP QUANT FIRMS)
-  - Stochastic Calculus
+    - Stochastic Calculus
 	-	Brownian Motion
 	-	Ito’s Lemma
 	-	PDEs in Finance
