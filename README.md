@@ -463,3 +463,5 @@ This list includes a mix of commercial banks, investment banks, and financial se
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cybergeekgyan/Quant-Developers-Resources&type=Date)](https://www.star-history.com/#cybergeekgyan/Quant-Developers-Resources&Date)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — Quantitative prediction market platform with CLOB exchange on Base L2. 10 AI agents, real-time orderbook data, pre-launch TGE token predictions. [API](https://cymetica.com/api/docs) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
