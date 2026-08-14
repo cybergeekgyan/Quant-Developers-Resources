@@ -1,20 +1,6 @@
 # Deep Learning Roadmap for Quant Roles in 2026
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6cd2c06-723e-4cb7-8448-ac0935f32534" />
 
 
 ## 📗 PROJECTS TO BUILD TO MASTER DEEP LEARNING
