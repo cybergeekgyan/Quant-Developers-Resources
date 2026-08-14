@@ -2,7 +2,28 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6cd2c06-723e-4cb7-8448-ac0935f32534" />
 
+## Deep Learning Topics to Master
 
+- Sequence Models
+  - CNNs
+  - RNNs
+  - LSTM
+  - GRUs
+  - Seq2Seq
+- Attention
+- Transformers
+- Diffusion Models
+- GANs
+- AutoEncoders
+- VAEs
+- Graph Neural Networks
+- Vision Transformers
+- MultiModal Models
+- Representation Learning
+- Contrastive Learning
+- Self-Supervised Learning
+- Distributed Training
+  
 ## 📗 PROJECTS TO BUILD TO MASTER DEEP LEARNING
 
 ### 🧠 Phase 0: Foundations (Math + Core ML)
