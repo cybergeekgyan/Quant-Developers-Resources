@@ -1,7 +1,20 @@
-# RAG & Advanced RAG Topics and Concepts to Know
+# RAG & Advanced RAG Topics 
 
-- Vector Databases: How It Works?
+- Vector Databases: Why it is Needed? and How It Works?
+- Embeddings
+- Chunking
+- Indexing
 - BM25
 - Hybrid Search
-- Re-Ranking
-- Vector Embeddings
+- Rerankers
+- ColBERT
+- Knowledge Graph RAG
+- Agentic RAG
+- GraphRAG
+- Corrective RAG
+- Self-RAG
+- Adaptive RAG
+- Long Context RAG
+- Multimodal RAG
+- Evaluation
+- Production RAG
