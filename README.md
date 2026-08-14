@@ -463,4 +463,4 @@ This list includes a mix of commercial banks, investment banks, and financial se
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cybergeekgyan/Quant-Developers-Resources&type=Date)](https://www.star-history.com/#cybergeekgyan/Quant-Developers-Resources&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=cybergeekgyan/Quant-Developers-Resources&type=Date)](https://star-history.dera.page/#cybergeekgyan/Quant-Developers-Resources&Date)
