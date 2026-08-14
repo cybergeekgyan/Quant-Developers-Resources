@@ -150,6 +150,7 @@
 - https://brainstellar.com
 - https://qfeuniversity.com/topics/
 - https://github.com/cbailes/awesome-deep-trading
+- https://fxmacrodata.com - API and MCP server for macroeconomic and FX data (policy rates, inflation, GDP, labor, release calendar, COT, commodities, forex).
 
 ## 📚 Top Books for Acing a Quantitative Analyst Interview
 
