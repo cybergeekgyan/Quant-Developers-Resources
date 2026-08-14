@@ -1,10 +1,8 @@
-Reinforcement Learning for Quant Roles — 2026
+# Reinforcement Learning for Quant Roles — 2026
 
-A concise roadmap to master Reinforcement Learning + Quantitative Finance for Quant Research, Quant Trading, Quant Developer, HFT, and Financial ML roles.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/74867189-232d-4fc0-8223-8e1a90dbf855" />
 
-⸻
-
-🎯 Objective
+## 🎯 Objective
 
 This repository covers the key concepts required to apply RL to:
 
@@ -19,10 +17,8 @@ This repository covers the key concepts required to apply RL to:
 
 The focus is on mathematical understanding, implementation, financial applications, and rigorous backtesting.
 
-⸻
-
-🗺️ Learning Roadmap
-
+## 🗺️ Learning Roadmap
+```
 Mathematics
     ↓
 Quant Finance
@@ -38,10 +34,9 @@ Advanced RL
 Backtesting & Validation
     ↓
 Production Systems
+```
 
-⸻
-
-1. 🔢 Mathematical Foundations
+### 1. 🔢 Mathematical Foundations
 
 * Probability & Statistics
 * Linear Algebra
@@ -51,245 +46,229 @@ Production Systems
 * Stochastic Processes
 * Time Series
 
-⸻
+### 2. 💰 Quantitative Finance
 
-2. 💰 Quantitative Finance
+- Portfolio & Risk
+    * Modern Portfolio Theory
+    * Markowitz Optimization
+    * Sharpe / Sortino / Calmar
+    * VaR / CVaR
+    * Kelly Criterion
+    * Risk Parity
+    * Factor Models
 
-Portfolio & Risk
+- Derivatives
+    * Options
+    * Futures
+    * Black-Scholes
+    * Greeks
+    * Dynamic Hedging
 
-* Modern Portfolio Theory
-* Markowitz Optimization
-* Sharpe / Sortino / Calmar
-* VaR / CVaR
-* Kelly Criterion
-* Risk Parity
-* Factor Models
+- Market Microstructure
+    * Limit Order Books
+    * Bid-Ask Spread
+    * Market Impact
+    * Slippage
+    * Liquidity
+    * Adverse Selection
+    * Order Flow
 
-Derivatives
+### 3. 🤖 RL Foundations
 
-* Options
-* Futures
-* Black-Scholes
-* Greeks
-* Dynamic Hedging
+- MDPs
 
-Market Microstructure
+    * State
+    * Action
+    * Reward
+    * Policy
+    * Transition Dynamics
+    * Value Function
+    * Q Function
+    * Advantage Function
+    * Discount Factor
 
-* Limit Order Books
-* Bid-Ask Spread
-* Market Impact
-* Slippage
-* Liquidity
-* Adverse Selection
-* Order Flow
+- Core Algorithms
 
-⸻
+    * Dynamic Programming
+    * Policy Iteration
+    * Value Iteration
+    * Monte Carlo RL
+    * TD Learning
+    * SARSA
+    * Q-Learning
+    * Double Q-Learning
 
-3. 🤖 RL Foundations
+- Exploration
 
-MDPs
+    * ε-Greedy
+    * UCB
+    * Thompson Sampling
+    * Softmax
+    * Contextual Bandits
 
-* State
-* Action
-* Reward
-* Policy
-* Transition Dynamics
-* Value Function
-* Q Function
-* Advantage Function
-* Discount Factor
+### 4. 🧠 Deep Reinforcement Learning
 
-Core Algorithms
+- Policy-Based
 
-* Dynamic Programming
-* Policy Iteration
-* Value Iteration
-* Monte Carlo RL
-* TD Learning
-* SARSA
-* Q-Learning
-* Double Q-Learning
+    * Policy Gradient
+    * REINFORCE
+    * Actor-Critic
+    * A2C / A3C
+    * GAE
 
-Exploration
+- Value-Based
 
-* ε-Greedy
-* UCB
-* Thompson Sampling
-* Softmax
-* Contextual Bandits
+    * DQN
+    * Double DQN
+    * Dueling DQN
+    * Prioritized Experience Replay
+    * Distributional DQN
+    * Rainbow
 
-⸻
+- Continuous Control
 
-4. 🧠 Deep Reinforcement Learning
+    * DDPG
+    * TD3
+    * SAC
 
-Policy-Based
+- Policy Optimization
 
-* Policy Gradient
-* REINFORCE
-* Actor-Critic
-* A2C / A3C
-* GAE
+    * PPO
+    * TRPO
 
-Value-Based
+### 5. 💹 Financial Reinforcement Learning
 
-* DQN
-* Double DQN
-* Dueling DQN
-* Prioritized Experience Replay
-* Distributional DQN
-* Rainbow
+- Portfolio Optimization
 
-Continuous Control
+    * Dynamic Asset Allocation
+    * Portfolio Rebalancing
+    * Long-Only / Long-Short
+    * Transaction Costs
+    * Leverage Constraints
+    * Risk-Aware Rewards
 
-* DDPG
-* TD3
-* SAC
+- Optimal Execution
 
-Policy Optimization
+    * TWAP
+    * VWAP
+    * Implementation Shortfall
+    * Almgren-Chriss
+    * Market Impact
+    * Execution Risk
 
-* PPO
-* TRPO
+- Market Making
 
-⸻
+    * Inventory Risk
+    * Spread Capture
+    * Order Arrival
+    * Adverse Selection
+    * Avellaneda-Stoikov
+    * RL Market Making
 
-5. 💹 Financial Reinforcement Learning
+- Smart Order Routing
 
-Portfolio Optimization
+    * Venue Selection
+    * Fill Probability
+    * Liquidity
+    * Latency
+    * Execution Cost
 
-* Dynamic Asset Allocation
-* Portfolio Rebalancing
-* Long-Only / Long-Short
-* Transaction Costs
-* Leverage Constraints
-* Risk-Aware Rewards
+- Dynamic Hedging
 
-Optimal Execution
+    * Delta Hedging
+    * Transaction-Cost-Aware Hedging
+    * Stochastic Volatility
+    * RL Hedging
 
-* TWAP
-* VWAP
-* Implementation Shortfall
-* Almgren-Chriss
-* Market Impact
-* Execution Risk
+### 6. 🚀 Advanced RL for Finance
 
-Market Making
+- High Priority
 
-* Inventory Risk
-* Spread Capture
-* Order Arrival
-* Adverse Selection
-* Avellaneda-Stoikov
-* RL Market Making
+    * Offline RL
+    * Risk-Sensitive RL
+    * Constrained RL
+    * Distributional RL
+    * Robust RL
+    * Non-Stationary RL
 
-Smart Order Routing
+- Advanced
 
-* Venue Selection
-* Fill Probability
-* Liquidity
-* Latency
-* Execution Cost
+    * Model-Based RL
+    * Multi-Agent RL
+    * Hierarchical RL
+    * Meta-RL
+    * Transfer RL
+    * Safe RL
+    * Imitation Learning
+    * Inverse RL
+    * Causal RL
 
-Dynamic Hedging
+- 2026 Frontier
 
-* Delta Hedging
-* Transaction-Cost-Aware Hedging
-* Stochastic Volatility
-* RL Hedging
+    * Decision Transformers
+    * Transformer-based RL
+    * World Models
+    * Generative Market Models
+    * Diffusion Models
+    * Continual RL
+    * LLM + RL
+    * Agentic Financial Systems
 
-⸻
-
-6. 🚀 Advanced RL for Finance
-
-High Priority
-
-* Offline RL
-* Risk-Sensitive RL
-* Constrained RL
-* Distributional RL
-* Robust RL
-* Non-Stationary RL
-
-Advanced
-
-* Model-Based RL
-* Multi-Agent RL
-* Hierarchical RL
-* Meta-RL
-* Transfer RL
-* Safe RL
-* Imitation Learning
-* Inverse RL
-* Causal RL
-
-2026 Frontier
-
-* Decision Transformers
-* Transformer-based RL
-* World Models
-* Generative Market Models
-* Diffusion Models
-* Continual RL
-* LLM + RL
-* Agentic Financial Systems
-
-⸻
-
-📊 7. Backtesting & Validation
+### 📊 7. Backtesting & Validation
 
 A financial RL strategy is only useful if the evaluation is rigorous.
 
-Backtesting
+- Backtesting
 
-* Walk-Forward Validation
-* Rolling / Expanding Windows
-* Purged Cross-Validation
-* Embargo
-* Out-of-Sample Testing
+    * Walk-Forward Validation
+    * Rolling / Expanding Windows
+    * Purged Cross-Validation
+    * Embargo
+    * Out-of-Sample Testing
 
-Avoid
+- Avoid
 
-* Look-Ahead Bias
-* Survivorship Bias
-* Data Leakage
-* Overfitting
-* Data Snooping
-* Transaction-Cost Ignorance
-* Slippage Ignorance
-* Market-Impact Ignorance
+    * Look-Ahead Bias
+    * Survivorship Bias
+    * Data Leakage
+    * Overfitting
+    * Data Snooping
+    * Transaction-Cost Ignorance
+    * Slippage Ignorance
+    * Market-Impact Ignorance
 
-Metrics
+- Metrics
 
-* CAGR
-* Sharpe
-* Sortino
-* Calmar
-* Maximum Drawdown
-* Volatility
-* VaR
-* CVaR
-* Turnover
-* Profit Factor
+    * CAGR
+    * Sharpe
+    * Sortino
+    * Calmar
+    * Maximum Drawdown
+    * Volatility
+    * VaR
+    * CVaR
+    * Turnover
+    * Profit Factor
 
-⸻
+### 🧪 8. Recommended Projects
 
-🧪 8. Recommended Projects
+- Build progressively harder projects:
 
-Build progressively harder projects:
+| Level |	Projects |
+|-------|------------|
+| ⭐	| RL Trading Environment|
+| ⭐⭐ |	RL Portfolio Optimizer
+| ⭐⭐	| Risk-Aware Portfolio RL
+| ⭐⭐⭐ |	Offline RL Trading
+| ⭐⭐⭐|	RL Optimal Execution
+| ⭐⭐⭐|	RL Market Maker
+| ⭐⭐⭐|	Smart Order Router
+| ⭐⭐⭐⭐|	RL Dynamic Hedging
+| ⭐⭐⭐⭐	|Multi-Agent Market Simulator
+| ⭐⭐⭐⭐	|Decision Transformer for Trading
 
-Level	Project
-⭐	RL Trading Environment
-⭐⭐	RL Portfolio Optimizer
-⭐⭐	Risk-Aware Portfolio RL
-⭐⭐⭐	Offline RL Trading
-⭐⭐⭐	RL Optimal Execution
-⭐⭐⭐	RL Market Maker
-⭐⭐⭐	Smart Order Router
-⭐⭐⭐⭐	RL Dynamic Hedging
-⭐⭐⭐⭐	Multi-Agent Market Simulator
-⭐⭐⭐⭐	Decision Transformer for Trading
-
-Every project should include:
-
+- Every project should include:
+```
 Data
  ↓
 Environment
@@ -305,50 +284,49 @@ Backtest
 Risk Analysis
  ↓
 Statistical Validation
+```
 
-⸻
 
-🎯 9. Quant Interview Checklist
+## 🎯 9. Quant Interview Checklist
 
-RL
+- RL
+    
+    * MDPs
+    * Bellman Equations
+    * Dynamic Programming
+    * TD Learning
+    * Q-Learning
+    * Policy Gradients
+    * Actor-Critic
+    * DQN
+    * PPO
+    * SAC
+    * Offline RL
 
-* MDPs
-* Bellman Equations
-* Dynamic Programming
-* TD Learning
-* Q-Learning
-* Policy Gradients
-* Actor-Critic
-* DQN
-* PPO
-* SAC
-* Offline RL
+- Quant
 
-Quant
+    * Probability
+    * Statistics
+    * Optimization
+    * Time Series
+    * Portfolio Theory
+    * Risk
+    * Derivatives
+    * Market Microstructure
+    * Stochastic Control
 
-* Probability
-* Statistics
-* Optimization
-* Time Series
-* Portfolio Theory
-* Risk
-* Derivatives
-* Market Microstructure
-* Stochastic Control
+- Financial RL
 
-Financial RL
+    * Portfolio Optimization
+    * Optimal Execution
+    * Market Making
+    * Dynamic Hedging
+    * Risk-Sensitive RL
+    * Backtesting
+    * Statistical Validation
 
-* Portfolio Optimization
-* Optimal Execution
-* Market Making
-* Dynamic Hedging
-* Risk-Sensitive RL
-* Backtesting
-* Statistical Validation
 
-⸻
-
-🏆 Priority Order
+## 🏆 Priority Order
 
 If time is limited:
 
@@ -370,14 +348,12 @@ If time is limited:
 16. Multi-Agent / Meta-RL
 17. Transformers / World Models / LLM + RL
 
-⸻
-
-🧠 Core Mental Model
+## 🧠 Core Mental Model
 
 The objective is not to simply learn RL algorithms.
 
 The goal is to learn how to translate:
-
+```
 Financial Problem
       ↓
 Mathematical Formulation
@@ -399,10 +375,10 @@ Statistical Validation
 Production System
 
 Learn → Derive → Implement → Experiment → Backtest → Validate → Deploy
+```
 
-⸻
 
-⭐ Goal
+### ⭐ Goal
 
 Build the knowledge and practical skills required to research and implement robust, risk-aware, statistically validated RL systems for quantitative finance.
 
