@@ -1,3 +1,14 @@
+# Python for AI 
+
+- Numpy
+- Pandas
+- Polars
+- Data Visualization
+- OOP
+- MultiThreading
+- Async Programming
+- Performance Optimisation
+
 # Python for Finance
 
 - Python Variables and Data Types
