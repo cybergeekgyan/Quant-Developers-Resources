@@ -151,7 +151,7 @@
 - https://qfeuniversity.com/topics/
 - https://github.com/cbailes/awesome-deep-trading
 - https://fxmacrodata.com - API and MCP server for macroeconomic and FX data (policy rates, inflation, GDP, labor, release calendar, COT, commodities, forex).
-
+- https://www.tradermaths.com - Mental maths tests, reasoning/probability tests, a dice market-making game, and firm guides (Optiver, IMC, Jane Street etc).
 ## 📚 Top Books for Acing a Quantitative Analyst Interview
 
 - Heard on The Street: Quantitative Questions from Wall Street Job Interviews
