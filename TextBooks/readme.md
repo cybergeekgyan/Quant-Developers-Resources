@@ -3,17 +3,17 @@
 
 | Sr. No. | Book | Link |
 | --------|------|-----|
-| 01. | Effective Modern C++ |
-| 02. | C++ High Performance 2nd edition |
-| 03. | The Linux Programming Interface |
-| 04. | Introduction to Probability and Statistics for Engineers and Scientists |
-| 05. | A Practical Guide To Quantitative Finance Interviews |
-| 06. | Fifty Challenging Problems in Probability |
-| 07. | But how do it know?  - J. Clark Scott |
-| 08. | Design Patterns:  Elements of Reusable Object-Oriented Software - Erich Gamma |
-| 09. | C++ Best practices - Jason Turner |
-| 10. | C++ 17 in detail - B. Filipek |
-| 11. | C++ Concurrency in Action - Williams |  
+| 01. | [Effective Modern C++ - Scott Meyers](https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf) | [📖](https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf) |
+| 02. | [C++ High Performance 2nd edition](https://ebooks.karbust.me/Technology/C++%20High%20Performance%20-%20Boost%20and%20optimize%20the%20performance%20of%20your%20C++%2017%20code%20-%20Bj%C3%B6rn%20Andrist,%20Viktor%20Sehr%20-%20Packt%20Publishing%20Limited%20(2018).pdf) | [📖](https://ebooks.karbust.me/Technology/C++%20High%20Performance%20-%20Boost%20and%20optimize%20the%20performance%20of%20your%20C++%2017%20code%20-%20Bj%C3%B6rn%20Andrist,%20Viktor%20Sehr%20-%20Packt%20Publishing%20Limited%20(2018).pdf) |
+| 03. | [The Linux Programming Interface](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf) | [📖](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf) |
+| 04. | [Introduction to Probability and Statistics for Engineers and Scientists](https://ndl.ethernet.edu.et/server/api/core/bitstreams/23809ed9-22e1-4780-943c-a7c18cde7f2b/content) | [📖](https://ndl.ethernet.edu.et/server/api/core/bitstreams/23809ed9-22e1-4780-943c-a7c18cde7f2b/content) |
+| 05. | [A Practical Guide To Quantitative Finance Interviews](http://finelite.cn/uploads/soft/20230509/1-23050Z93401O9.pdf) | [📖](http://finelite.cn/uploads/soft/20230509/1-23050Z93401O9.pdf) |
+| 06. | [Fifty Challenging Problems in Probability](https://chengzhaoxi.xyz/download/pdf/book/Fifty-Challenging-Problems-in-Probability-with-Solutions.pdf) | [📖](https://chengzhaoxi.xyz/download/pdf/book/Fifty-Challenging-Problems-in-Probability-with-Solutions.pdf) |
+| 07. | [C++ Concurrency in Action - Anthony Williams](https://beefnoodles.cc/assets/book/C++%20Concurrency%20in%20Action.pdf) | [📖](https://beefnoodles.cc/assets/book/C++%20Concurrency%20in%20Action.pdf) |
+| 08. | [But how do it know?  - J. Clark Scott](https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/But%20How%20Do%20It%20Know%20-%20The%20Basic%20Principles%20of%20Computers%20for%20Everyone%20-%20Author%20(J.%20Clark%20Scott).pdf) | [📖](https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/But%20How%20Do%20It%20Know%20-%20The%20Basic%20Principles%20of%20Computers%20for%20Everyone%20-%20Author%20(J.%20Clark%20Scott).pdf) |
+| 09. | [Design Patterns:  Elements of Reusable Object-Oriented Software - Erich Gamma](https://www.javier8a.com/itc/bd1/articulo.pdf) | [📖](https://www.javier8a.com/itc/bd1/articulo.pdf) |
+| 10. | C++ Best practices - Jason Turner | |
+| 11. | C++ 17 in detail - B. Filipek | |  
 
 ## 📚 Books for Quant Traders 
 

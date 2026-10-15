@@ -94,6 +94,7 @@
   - Digital Design: With an Introduction to the Verilog HDL by M. Morris Mano and Michael D. Ciletti
 	-	Fundamentals of Digital Logic with Verilog Design by Stephen Brown and Zvonko Vranesic
 - [FPGA Basics]() :
+  - [FPGA Prototyping by VHDL Examples by Pong P. Chu](./02_ebook.pdf)
   - FPGA Prototyping by Verilog Examples by Pong P. Chu (For hands-on design)
 	- FPGA Programming for Beginners by Frank Bruno
 - [Hardware Description Languages(HDL)]() :
@@ -110,13 +111,14 @@
   -	High-Speed Digital Design: A Handbook of Black Magic by Howard Johnson and Martin Graham
 	-	Signal Integrity for PCB Designers by Eric Bogatin
 - [FPGA Design for Trading Applications]()
+  - [High-Performance FPGA-Based Accelerators for Financial Applications](./fpga-based-accelerators-for-financial-applications-2015.pdf)
   - FIX Protocol and Fast Protocol Guide by FIX Trading Community (Official Documentation)
   - Network Algorithmics: An Interdisciplinary Approach to Designing Fast Networked Devices by George Varghese
 - [Advanced FPGA Topics]():
   - C-Based Design for Advanced Embedded Systems by David Andrews
 	-	High-Level Synthesis for FPGA-Based Accelerators by Tianshi Chen
   -	Digital Signal Processing with FPGA by Uwe Meyer-Baese
-	-	FPGA-Based Implementation of Signal Processing Systems by Roger Woods
+	-	[FPGA-Based Implementation of Signal Processing Systems by Roger Woods](<./FPGA-based Implementation of Signal Processing Systems (Roger Woods, John McAllister, Gaye Lightbody etc.) (Z-Library).pdf>)
   -	Low-Power CMOS VLSI Design by Kaushik Roy and Sharat Prasad
 	-	Xilinx Power Estimation and Optimization Guides
 - [Knowledge of Trading and HFT Systems]() :
