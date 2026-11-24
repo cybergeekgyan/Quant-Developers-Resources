@@ -151,6 +151,7 @@
 - https://qfeuniversity.com/topics/
 - https://github.com/cbailes/awesome-deep-trading
 - https://fxmacrodata.com - API and MCP server for macroeconomic and FX data (policy rates, inflation, GDP, labor, release calendar, COT, commodities, forex).
+- https://quantchallenges.com - Verified directory of quantitative trading competitions, 2026-2027 student fellowships, 60 worked interview problems, free 80-in-8 / number-sequences / market-making drills, and 550+ direct-ATS quant jobs (CC0 GitHub list: https://github.com/KonstantinRogozhkin/awesome-quant-competitions).
 
 ## 📚 Top Books for Acing a Quantitative Analyst Interview
 
